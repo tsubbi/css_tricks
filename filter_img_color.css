@@ -1,0 +1,6 @@
+/* This is the way to change the img color to green */
+/* https://codepen.io/sosuke/pen/Pjoqqp */
+/* Follow the parameters that provided in the link that will change img into desired color */
+.image-to-green {
+    filter: invert(16%) sepia(98%) saturate(3160%) hue-rotate(179deg) brightness(96%) contrast(103%);
+}
