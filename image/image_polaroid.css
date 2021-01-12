@@ -16,6 +16,28 @@ how to use:
 </div> 
 */
 
+/* 
+another example is from w3school- https://w3schools.com/css/css3_images.asp
+div.polaroid {
+    width: 80%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rbga(0, 0, 0, 0.2), 0 6px 20px 0 rbga(0, 0, 0, 0.19);
+}
+
+div.container {
+    text-align: center;
+    padding: 10px 20px;
+}
+
+how to use:
+<div class="polaroid">
+    <img>
+    <div class="container">
+        <p>
+    </div>
+</div> 
+*/
+
 * {
     box-sizing: border-box;
 }
